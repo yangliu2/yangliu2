@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Reinforcement learning
 - 💞️ I’m looking to collaborate on NLP, Image analsys. 
-- 📫 How to reach me on github
+- 📫 You can reach me on github
 
 <!---
 yangliu2/yangliu2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
