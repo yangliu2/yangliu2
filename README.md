@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yangliu2
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Reinforcement learning
-- 💞️ I’m looking to collaborate on NLP, Image analsys. 
+- 💞️ I’m looking to collaborate on NLP, Image analysis. 
 - 📫 You can reach me on github
 
 <!---
